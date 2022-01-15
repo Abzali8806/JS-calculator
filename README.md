@@ -1,0 +1,1 @@
+This is my first JS project after a Javascript tutorial yesterday. I completed this by following along with a youtube video (https://www.youtube.com/watch?v=j59qQ7YWLxw). This video gave a step by step demostration on how to build the calculator.
